@@ -1,0 +1,28 @@
+/**
+ * @param {number[]} height
+ * @return {number}
+ */
+var trap = function(height) {
+    var lmax=0
+    var rmax=0
+    var carry=0
+    var i=0;
+    var j=height.length-1
+
+    while(i<j){
+
+        lmax=Math.max(lmax,height[i])
+        rmax=Math.max(rmax,height[j])
+    //console.log(lmax-height[i],height[j],rmax-height[j],height[i],carry)
+      carry=carry+Math.min(lmax-height[i],height[j])+Math.min(rmax-height[j],height[i])
+        if(height[j]<height[i]){
+            j-- 
+        }
+        else{
+            i++
+        }
+    }
+    console.log(carry)
+    return carry
+    
+};
