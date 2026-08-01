@@ -14,6 +14,7 @@
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
+| [1051-height-checker](https://github.com/jaswanth-geddam/dsa-practice/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,10 +45,12 @@
 | [0455-assign-cookies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/jaswanth-geddam/dsa-practice/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/jaswanth-geddam/dsa-practice/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
