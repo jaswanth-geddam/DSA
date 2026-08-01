@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0414-third-maximum-number](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
 ## Counting Sort
