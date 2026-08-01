@@ -12,6 +12,7 @@
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
