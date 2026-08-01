@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0495-teemo-attacking](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
