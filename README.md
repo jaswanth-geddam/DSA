@@ -12,11 +12,13 @@
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0561-array-partition) |
+| [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +64,13 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
