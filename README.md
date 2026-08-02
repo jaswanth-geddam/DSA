@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
