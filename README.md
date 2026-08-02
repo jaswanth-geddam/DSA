@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
@@ -65,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
 ## Simulation
